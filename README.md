@@ -1,2 +1,2 @@
-# php-inverted-index
-Indexação de texto com métodos de navegação em PHP
+# Inverted Indices
+Implementação da técnica de indexação de texto com métodos de navegação em PHP.
